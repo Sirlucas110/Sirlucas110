@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-<div>
+<div style='display: inline-block'>
   <a href="https://github.com/Sirlucas110"></a>
   <img height='180px' width='420px' src='https://github-readme-stats.vercel.app/api?username=Sirlucas110&theme=tokyonight&show_icons=true&hide_border=true&count_private=true'>
   <img height='180px' widht='420px' src='https://github-readme-streak-stats.herokuapp.com/?user=Sirlucas110&theme=tokyonight&hide_border=true'>
