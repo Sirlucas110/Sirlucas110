@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋, I'm Lucas Moraes </h1> 
 
-
-Here are some ideas to get you started:
+<h2 align='center'>Graduating in TADS-INSTED e Economics-UFMS</h2>
 
 
 <div>
